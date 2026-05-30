@@ -11,18 +11,19 @@ This is a preliminary version and is subject to constant changes and improvement
 
 # Screenshots
 
+![](https://github.com/user-attachments/assets/ebd4798d-a77d-4f51-8405-7726a390c8eb) 
 
+![](https://github.com/user-attachments/assets/7fe3f353-2906-45a8-a73a-a6f10de3552d)
 
-
-# FAQ
+# FEATURES
 
 The first 250 icons are completely free. Try it and if you really like it you can choose to pay what you like and support my work. The payment includes future updates. However, if you would like to have the complete icon set that covers each app on your phone, you can choose to pay the full price ($2.99) and order the icons that you need to complete your setup!
 
 Check out the included apps here: 
 
+# FAQ
 
-
-🔹 *Why isn't it available on Google Play?*
+🔹 **Why isn't it available on Google Play?**
 
 Mainly for two reasons:
 
@@ -31,19 +32,19 @@ Mainly for two reasons:
 - Google Play no longer accepts apps in APK format, and since this icon set is created entirely on my phone, it's impossible for me to convert the app to meet the format required by Google Play.
 
 
-🔹 *How will I receive updates?*
+🔹 **How will I receive updates?**
 
 Since I'll try to ensure each purchase includes the necessary icons for each person, constantly updating this icon set isn't strictly necessary. But I will post all news and new content via my Telegram channel: @homescreamstudio / social media (links below)
 
-🔹 *Will this theme work with my Launcher?*
+🔹 **Will this theme work with my Launcher?**
 
 As long as your phone is running at least Android 8 or higher and you use a custom launcher, the answer is yes. It supports the most popular launchers: Nova, Smart, Niagara, etc.
 
-🔹 *What is Icon request app?*
+🔹 **What is Icon request app?**
 
 It is only needed if your favorite apps are not yet present in Lonie. It will create a zip file with the list of missing apps (icon, name package and main activity) so I can add them in the next update! 
 
-🔹 *What apps do you use for the whole creative process?*
+🔹 **What apps do you use for the whole creative process?**
 
 *Infinite Design*
 
@@ -58,15 +59,16 @@ https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor&hl
 https://play.google.com/store/apps/details?id=cn.ommiao.iconpacker&hl=en-US
 
 *Icon request*
+
 https://play.google.com/store/apps/details?id=de.kaiserdragon.iconrequest
 
 
-🔹*I like the icons, but I'm missing a few to complete my homescreen. Where can I request the ones I need?*
+🔹**I like the icons, but I'm missing a few to complete my homescreen. Where can I request the ones I need?**
 
 You can contact me via:
 
-BlueSky / Twitter : @Leslyecream
-Telegram (Discussion group): https://t.me/+ua8hCJ273oExZTMx
+**BlueSky / Twitter:** @Leslyecream
+**Telegram** (Discussion group): https://t.me/+ua8hCJ273oExZTMx
 
 The delivery time may vary depending on the number of icons and the current demand. Usually within the next 3-5 days. 
 
