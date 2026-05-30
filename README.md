@@ -26,6 +26,7 @@ The first 250 icons are completely free. Try it and if you really like it you ca
 Check out the included apps: 
 
 ![Apps included](https://github.com/LeslyeCream/lonie-icon-pack/blob/main/Apps%20included.md)
+
 # FAQ
 
 🔹 **Why isn't it available on Google Play?**
