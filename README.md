@@ -1,6 +1,8 @@
 # Lonie
 A lovely vintage touch for Android!
 
+![](https://github.com/user-attachments/assets/b72df22b-dd0d-428f-811b-f6f9d87c3d41)
+
 Lonie is a set of icons inspired by the 1920s, reimagined to achieve a vintage color palette while still looking fresh and vibrant. It will try its best to complement Material You.  
 
 It's not about thousands of icons, instead, the focus is on ensuring every user enjoys a complete icon set that truly covers every app to use daily (or those simply hiding in a corner of their app drawer) No more missing apps leaving a gap in your setup for months! ^^
@@ -18,6 +20,8 @@ This is a preliminary version and is subject to constant changes and improvement
 # FEATURES
 
 The first 250 icons are completely free. Try it and if you really like it you can choose to pay what you like and support my work. The payment includes future updates. However, if you would like to have the complete icon set that covers each app on your phone, you can choose to pay the full price ($2.99) and order the icons that you need to complete your setup!
+
+<a href='https://ko-fi.com/W7W349H97' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Check out the included apps here: 
 
