@@ -23,8 +23,9 @@ The first 250 icons are completely free. Try it and if you really like it you ca
 
 <a href='https://ko-fi.com/W7W349H97' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-Check out the included apps here: 
+Check out the included apps: 
 
+![Apps included](https://github.com/LeslyeCream/lonie-icon-pack/blob/main/Apps%20included.md)
 # FAQ
 
 🔹 **Why isn't it available on Google Play?**
@@ -38,7 +39,7 @@ Mainly for two reasons:
 
 🔹 **How will I receive updates?**
 
-Since I'll try to ensure each purchase includes the necessary icons for each person, constantly updating this icon set isn't strictly necessary. But I will post all news and new content via my Telegram channel: @homescreamstudio / social media (links below)
+Since I'll try to ensure each purchase includes the necessary icons for each person, constantly updating this icon set isn't strictly necessary. But I will post all news and new content via my Telegram channel: ![@homescreamstudio](https://t.me/+ua8hCJ273oExZTMx) / social media (links below)
 
 🔹 **Will this theme work with my Launcher?**
 
