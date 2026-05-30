@@ -1,0 +1,246 @@
+- 1.1.1.1
+- 1Password
+- Acode
+- Acrobat
+- Adguard
+- AdGuard VPN
+- Airbnb
+- Airbrush
+- Aliexpress
+- Amazon
+- Amazon Music
+- Amazon Video
+- Among us
+- App Sales
+- Are.na
+- Asphalt 9
+- Asos
+- Audible
+- Audire
+- Aurora Store
+- AutoTools
+- Avast
+- AVES
+- Backdrops
+- BiliBili
+- Bitmoji
+- Brave
+- Brainly
+- Brawl Stars
+- BlueSky
+- Calculator
+- Calendar
+- Call of Duty
+- CandyCrush
+- Capcut
+- Cashapp
+- ChatGPT
+- Chats
+- Chrome
+- Clock
+- Clock You
+- Contacts
+- Cookpad
+- Dashlane
+- Deezer
+- Delta Chat
+- Disney +
+- Domino's
+- Doordash
+- Dropbox
+- Droid-ify
+- DuckDuckGo
+- Etsy
+- Excel
+- Express VPN
+- Exteragram
+- Facebook
+- Feeder
+- Feedme
+- Figma
+- Find my device
+- Firefox
+- Fire Tv
+- Fitbit
+- Flickr
+- Fleksy
+- Flipboard
+- Focus To-Do
+- Gboard
+- Github
+- Giphy
+- Glovo
+- Gmail
+- Goodlock
+- Google Ads
+- Google Authenticator
+- Google Classroom
+- Google Drive
+- Google Earth
+- Google Keep
+- Google Maps
+- Google One
+- Google Opinion Rewards
+- Google Photos
+- Google Play
+- Google Podcast
+- Google Search
+- Google Sheets
+- Google Tasks
+- Google Translate
+- Google Voice
+- Grammarly
+- Grindr
+- Gumroad
+- Hail
+- Hue
+- Hulu
+- iHeart Radio
+- IbisPaint
+- Idea Note
+- Imgur
+- Inoreader
+- Instagram
+- Invizible
+- Kagi News
+- Kagi Summarize
+- KeePassDX
+- KeyGuard
+- KFC
+- Kik
+- Kinemaster
+- Klarna
+- KWGT
+- Lastpass
+- Lens
+- LG ThingQ
+- LibreTube
+- Lightroom
+- Ludo King
+- Lyft
+- Mastodon
+- McDonalds
+- Medium
+- MEGA
+- Meet
+- Messages
+- Messenger
+- Minecraft
+- Mini Metro
+- MiXplorer
+- moeGram X
+- MyGesture
+- MX Player
+- NBC
+- Netflix
+- NewPipe
+- Nintendo Switch Online
+- Nimbus
+- NordVPN
+- Notally
+- Nothing X
+- Nova Launcher
+- Notion
+- NYT
+- Obsidian
+- Obtanium
+- OneDrive
+- OneNote
+- Opera
+- Outlook
+- OsmAnd
+- Pandora
+- Paypal
+- Peacock
+- Perplexity
+- Phone
+- Photo Editor
+- PhotoRoom
+- Picart
+- Pinterest
+- Pizza Hut
+- Pixtica
+- Plague Inc
+- Plex
+- Pocket
+- Pocket Cast
+- Pokemon Go
+- Popcorn Time
+- PowerPoint
+- ProShot
+- Proton Mail
+- Proton VPN
+- QQ
+- Quacker
+- QuickPic
+- Quora
+- Quetta
+- Raindrop
+- Read more
+- Recorder
+- Reddit
+- RedReader
+- Remini
+- Retouch
+- SaverTuner
+- Screen Time
+- Settings
+- Shizuku
+- Shopify
+- Showly
+- Signal
+- SimpleNote
+- SiYuan
+- Slack
+- Slowly
+- Snapseed
+- Soundcloud
+- Spotify
+- Steam
+- Stickerly
+- Target
+- Tasker
+- Teams
+- Telegram
+- Temu
+- Termux
+- Tesla
+- Threema
+- Threads
+- Tidal
+- Tinder
+- Todo
+- Translate
+- Translate You
+- Tripadvisor
+- TrueCaller
+- TuneIn Radio
+- Tumblr
+- Tuta
+- Tuta Calendar
+- Twitch
+- Uber
+- Uber Eats
+- UC Browser
+- Venmo
+- VK
+- VLC
+- Vivaldi
+- VSCO
+- Walli
+- Walmart
+- Wattpad
+- Waze
+- Weather
+- Webtoon
+- Wetransfer
+- Wikipedia
+- Word
+- WPS Office
+- X
+- Xbox
+- YouTube
+- Youtube Kids
+- Youtube Music
+- Youtube Studio
+- Zedge
