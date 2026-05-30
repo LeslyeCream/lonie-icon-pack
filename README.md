@@ -17,7 +17,7 @@ This is a preliminary version and is subject to constant changes and improvement
 
 ![](https://github.com/user-attachments/assets/7fe3f353-2906-45a8-a73a-a6f10de3552d)
 
-# FEATURES
+# Features
 
 The first 250 icons are completely free. Try it and if you really like it you can choose to pay what you like and support my work. The payment includes future updates. However, if you would like to have the complete icon set that covers each app on your phone, you can choose to pay the full price ($2.99) and order the icons that you need to complete your setup!
 
