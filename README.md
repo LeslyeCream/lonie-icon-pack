@@ -19,7 +19,7 @@ This is a preliminary version and is subject to constant changes and improvement
 
 # Features
 
-The first 250 icons are completely free. Try it and if you really like it you can choose to pay what you want and support my work. The payment includes future updates (: However, if you would like to have the complete icon set that covers each app on your phone, you can choose to pay the full price ($2.99) and order the icons that you need to complete your setup!
+The first 355 icons are completely free. Try it and if you really like it you can choose to pay what you want and support my work. The payment includes future updates (: However, if you would like to have the complete icon set that covers each app on your phone, you can choose to pay the full price ($2.99) and order the icons that you need to complete your setup!
 
 <a href='https://ko-fi.com/W7W349H97' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
