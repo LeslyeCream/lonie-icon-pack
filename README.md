@@ -52,9 +52,9 @@ It is only needed if your favorite apps are not yet present in Lonie. It will cr
 
 🔹 **What apps do you use for the whole creative process?**
 
-*Infinite Design*
+*VectorInk*
 
-https://play.google.com/store/apps/details?id=com.brakefield.idfree&hl=en-US
+https://play.google.com/store/apps/details?id=com.app.vectorink&hl=en_US
 
 *Photo Editor*
 
